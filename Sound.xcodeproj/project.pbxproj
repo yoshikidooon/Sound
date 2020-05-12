@@ -13,7 +13,6 @@
 		EDEB02E3245DE19F00099000 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EDEB02E1245DE19F00099000 /* Main.storyboard */; };
 		EDEB02E5245DE1A100099000 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EDEB02E4245DE1A100099000 /* Assets.xcassets */; };
 		EDEB02E8245DE1A100099000 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EDEB02E6245DE1A100099000 /* LaunchScreen.storyboard */; };
-		EDEB02F0245DF53700099000 /* drum_image.png in Resources */ = {isa = PBXBuildFile; fileRef = EDEB02EF245DF53700099000 /* drum_image.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,7 +24,6 @@
 		EDEB02E4245DE1A100099000 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EDEB02E7245DE1A100099000 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EDEB02E9245DE1A100099000 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		EDEB02EF245DF53700099000 /* drum_image.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = drum_image.png; path = "../../../lifeistech素材/iphone_materials/sound/drum_image.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,7 +61,6 @@
 				EDEB02DF245DE19F00099000 /* ViewController.swift */,
 				EDEB02E1245DE19F00099000 /* Main.storyboard */,
 				EDEB02E4245DE1A100099000 /* Assets.xcassets */,
-				EDEB02EF245DF53700099000 /* drum_image.png */,
 				EDEB02E6245DE1A100099000 /* LaunchScreen.storyboard */,
 				EDEB02E9245DE1A100099000 /* Info.plist */,
 			);
@@ -131,7 +128,6 @@
 				EDEB02E8245DE1A100099000 /* LaunchScreen.storyboard in Resources */,
 				EDEB02E5245DE1A100099000 /* Assets.xcassets in Resources */,
 				EDEB02E3245DE19F00099000 /* Main.storyboard in Resources */,
-				EDEB02F0245DF53700099000 /* drum_image.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
